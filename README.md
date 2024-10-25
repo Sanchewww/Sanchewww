@@ -9,13 +9,14 @@
 
 
 <br>
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/1314610e-cc8d-4d10-999c-30fd8b490e0d" alt="Your GIF" style="max-width: 150px; margin-right: 10px;">
   <div>
     👨‍💻 Sanchita | Coder at work...
     <br>
   </div>
-  <img src="https://github.com/user-attachments/assets/1314610e-cc8d-4d10-999c-30fd8b490e0d" alt="Your GIF" style="max-width: 150px;">
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
