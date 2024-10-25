@@ -1,21 +1,22 @@
-<img src="https://in.pinterest.com/pin/985231161147188.gif" alt="MasterHead" width="100%" style="max-height: 300px; object-fit: cover;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44a8b546-64fa-412f-8228-27974fdc35a0" alt="Your GIF">
+</p>
+
 
 <h1 align="center">Hey!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sanchita Pandey</h1>
 
 <h3 align="center"> @sanchewww | sanchitap3673@gmail.com </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/633387435663889.gif">
-<!-- https://i.pinimg.com/originals/75/fc/51/75fc51dd9fddd32e89a44062468ab79b.gif -->
-<!-- //https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif -->
-<!-- https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif -->
-<div align="center">
 <br>
-
-  👨‍💻 Sanchita | Coder at work....
-
-  [![Email](https://img.shields.io/badge/-Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchitap3673@gmail.com)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    👨‍💻 Sanchita | Coder at work...
+    <br>
+  </div>
+  <img src="https://github.com/user-attachments/assets/1314610e-cc8d-4d10-999c-30fd8b490e0d" alt="Your GIF" style="max-width: 150px;">
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suuraw&show_icons=true&locale=en&theme=dark" alt="sanchewww" /></p>
 
-![download (1)](https://github.com/user-attachments/assets/44a8b546-64fa-412f-8228-27974fdc35a0)
-![download](https://github.com/user-attachments/assets/1314610e-cc8d-4d10-999c-30fd8b490e0d)
+
