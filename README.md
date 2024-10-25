@@ -1,11 +1,11 @@
-<img src="https://pin.it/1grqWjAwC.gif" alt="MasterHead" width="100%" style="max-height: 300px; object-fit: cover;">
+<img src="https://in.pinterest.com/pin/985231161147188.gif" alt="MasterHead" width="100%" style="max-height: 300px; object-fit: cover;">
 
 <h1 align="center">Hey!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sanchita Pandey</h1>
 
 <h3 align="center"> @sanchewww | sanchitap3673@gmail.com </h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://pin.it/1sVIwfh97.gif">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/633387435663889.gif">
 <!-- https://i.pinimg.com/originals/75/fc/51/75fc51dd9fddd32e89a44062468ab79b.gif -->
 <!-- //https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif -->
 <!-- https://i.pinimg.com/originals/30/5f/f8/305ff88e24f9460bb79644e197af92a9.gif -->
@@ -29,4 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suuraw&show_icons=true&locale=en&theme=dark" alt="sanchewww" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suuraw&theme=dark" alt="sanchewww" /></p>
+![download (1)](https://github.com/user-attachments/assets/44a8b546-64fa-412f-8228-27974fdc35a0)
+![download](https://github.com/user-attachments/assets/1314610e-cc8d-4d10-999c-30fd8b490e0d)
