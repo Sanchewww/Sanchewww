@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanchewww
-- 👀 I’m interested in cloud computing and security
+- 👀 I’m interested in Full stack development and its integration with AI
 - 🌱 I’m currently learning cloud services
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on full stack projects
 - 📫 You can reach out to me on my email, sanchitap3673@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You can always find me either eating, vibing to my jams, or in front of my laptop looking all flummoxed
